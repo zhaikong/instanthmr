@@ -1,7 +1,6 @@
 __pycache__/
 *.py[cod]
 .pytest_cache/
-.vscode/
 .idea/
 .DS_Store
 .venv/
@@ -24,3 +23,5 @@ data/
 data_*/
 annotations/
 images/
+config.bat
+node_modules
